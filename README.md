@@ -14,3 +14,13 @@ It combines both computer vision and natural language processing and marks a tru
 challenging problem in broader artificial intelligence. Automatically describing the content of 
 an image is a fundamental problem in artificial intelligence that connects computer vision and
 natural language processing.
+
+##Here are some Screenshots---
+
+![Screenshot1](https://github.com/pawanrj7/Forge-a-Quote/blob/master/Screenshots/Screenshot1.jpeg)
+
+![Screenshot2](https://github.com/pawanrj7/Forge-a-Quote/blob/master/Screenshots/Screenshot2.jpeg)
+
+![Screenshot3](https://github.com/pawanrj7/Forge-a-Quote/blob/master/Screenshots/Screenshot3.jpeg)
+
+
