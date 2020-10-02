@@ -19,8 +19,8 @@ natural language processing.
 
 ![Screenshot1](https://github.com/pawanrj7/Forge-a-Quote/blob/master/Screenshots/Screenshot1.jpeg)
 
-![Screenshot2](https://github.com/pawanrj7/Forge-a-Quote/blob/master/Screenshots/Screenshot2.jpeg)
+![Screenshot2](https://github.com/pawanrj7/Forge-a-Quote/blob/master/Screenshots/screenshot2.jpeg)
 
-![Screenshot3](https://github.com/pawanrj7/Forge-a-Quote/blob/master/Screenshots/Screenshot3.jpeg)
+![Screenshot3](https://github.com/pawanrj7/Forge-a-Quote/blob/master/Screenshots/screenshot3.jpeg)
 
 
